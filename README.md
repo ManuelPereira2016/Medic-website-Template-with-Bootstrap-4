@@ -1,2 +1,2 @@
-# React-Project-1
-My first works in reactJS
+# A basic design of a Medic Website using Bootstrap latest version.
+
